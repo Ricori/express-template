@@ -3,7 +3,9 @@ Based on express.
 
 ## Run
 ```
-npm install
+# install express
+npm i -D express
 
+# run
 node app.js
 ```
